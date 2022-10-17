@@ -1,3 +1,11 @@
+# Arthur Vieira
+
+**`Digital Forger`**
+
+I'm a newly graduated full-stack developer, looking for my first experience in the job market. I forge my projects based on prior planning, a design of what I would like to create, also based on researching the documentation and finally writing the code.
+
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
